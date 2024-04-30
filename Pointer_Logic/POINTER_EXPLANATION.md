@@ -9,7 +9,6 @@
     
     byte* bp = (byte*) &i;
 
-    //while bp is smaller than
     while (bp < (byte*)&i + 4) {
       printf("%x \n", *bp & 0xff);
       bp++;
