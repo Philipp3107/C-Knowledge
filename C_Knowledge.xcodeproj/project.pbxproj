@@ -12,7 +12,6 @@
 		65E3C87B2BE13D4200A27A16 /* pointer_test.c in Sources */ = {isa = PBXBuildFile; fileRef = 65E3C87A2BE13D4200A27A16 /* pointer_test.c */; };
 		65E3C88A2BE14F2000A27A16 /* verboten.c in Sources */ = {isa = PBXBuildFile; fileRef = 65E3C8892BE14F2000A27A16 /* verboten.c */; };
 		65E3C8902BE15B3400A27A16 /* erlaubt.c in Sources */ = {isa = PBXBuildFile; fileRef = 65E3C88F2BE15B3400A27A16 /* erlaubt.c */; };
-		65E3C8A42BE15EC000A27A16 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 65E3C8A32BE15EC000A27A16 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -79,7 +78,6 @@
 		65E3C8952BE15C0100A27A16 /* VoidPointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VoidPointer; sourceTree = BUILT_PRODUCTS_DIR; };
 		65E3C89C2BE15C0E00A27A16 /* VOID_POINTER.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = VOID_POINTER.md; sourceTree = "<group>"; };
 		65E3C8A12BE15EC000A27A16 /* NullPointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NullPointer; sourceTree = BUILT_PRODUCTS_DIR; };
-		65E3C8A32BE15EC000A27A16 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		65E3C8A82BE15ED900A27A16 /* NULL_POINTER.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NULL_POINTER.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -187,7 +185,6 @@
 		65E3C8A22BE15EC000A27A16 /* NullPointer */ = {
 			isa = PBXGroup;
 			children = (
-				65E3C8A32BE15EC000A27A16 /* main.c */,
 				65E3C8A82BE15ED900A27A16 /* NULL_POINTER.md */,
 			);
 			path = NullPointer;
@@ -364,7 +361,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				65E3C8A42BE15EC000A27A16 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
