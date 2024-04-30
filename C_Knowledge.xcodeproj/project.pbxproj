@@ -63,6 +63,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		65BCDDF72BE1658700C0E9AF /* ADRESSEN.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ADRESSEN.md; sourceTree = "<group>"; };
+		65BCDDF82BE1658700C0E9AF /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		65E3C81F2BE01A4E00A27A16 /* C_Knowledge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C_Knowledge; sourceTree = BUILT_PRODUCTS_DIR; };
 		65E3C8222BE01A4E00A27A16 /* schnick.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = schnick.c; sourceTree = "<group>"; };
 		65E3C8362BE03CF200A27A16 /* schnick_funcs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = schnick_funcs.h; sourceTree = "<group>"; };
@@ -120,9 +122,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		65BCDDF92BE1658700C0E9AF /* Adressen */ = {
+			isa = PBXGroup;
+			children = (
+				65BCDDF72BE1658700C0E9AF /* ADRESSEN.md */,
+				65BCDDF82BE1658700C0E9AF /* main.c */,
+			);
+			path = Adressen;
+			sourceTree = "<group>";
+		};
 		65E3C8162BE01A4E00A27A16 = {
 			isa = PBXGroup;
 			children = (
+				65BCDDF92BE1658700C0E9AF /* Adressen */,
 				65E3C8812BE14A4000A27A16 /* README.md */,
 				65E3C87C2BE13D6100A27A16 /* Pointer_Logic */,
 				65E3C8212BE01A4E00A27A16 /* C_Knowledge */,
