@@ -12,7 +12,7 @@ int main(void) {
     
     //initializing random with seed
     char* state = malloc(sizeof(char) * 32);
-    initstate( time(NULL) ,state, sizeof(state));
+    initstate( (int)time(NULL) ,state, sizeof(state));
     
     //points for palyer and coomputer
     int player_points = 0, computer_points = 0;
