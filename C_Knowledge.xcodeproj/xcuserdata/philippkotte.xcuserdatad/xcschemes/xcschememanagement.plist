@@ -7,11 +7,7 @@
 		<key>Adressen.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-<<<<<<< HEAD
-			<integer>2</integer>
-=======
 			<integer>5</integer>
->>>>>>> main
 		</dict>
 		<key>C_Knowledge.xcscheme_^#shared#^_</key>
 		<dict>
@@ -21,7 +17,7 @@
 		<key>NullPointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>2</integer>
 		</dict>
 		<key>Pointer_Logic.xcscheme_^#shared#^_</key>
 		<dict>
@@ -31,12 +27,12 @@
 		<key>StrictAliasingRule.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>4</integer>
 		</dict>
 		<key>VoidPointer.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
