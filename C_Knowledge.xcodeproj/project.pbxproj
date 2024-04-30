@@ -44,6 +44,7 @@
 		65E3C86B2BE13BAA00A27A16 /* Pointer_Logic */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Pointer_Logic; sourceTree = BUILT_PRODUCTS_DIR; };
 		65E3C87A2BE13D4200A27A16 /* pointer_test.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = pointer_test.c; sourceTree = "<group>"; };
 		65E3C87D2BE143E000A27A16 /* POINTER_EXPLANATION.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = POINTER_EXPLANATION.md; sourceTree = "<group>"; };
+		65E3C8812BE14A4000A27A16 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 		65E3C8162BE01A4E00A27A16 = {
 			isa = PBXGroup;
 			children = (
+				65E3C8812BE14A4000A27A16 /* README.md */,
 				65E3C87C2BE13D6100A27A16 /* Pointer_Logic */,
 				65E3C8212BE01A4E00A27A16 /* C_Knowledge */,
 				65E3C8202BE01A4E00A27A16 /* Products */,
