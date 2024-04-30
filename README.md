@@ -6,3 +6,4 @@
 ## [Void Pinter](/VoidPointer/VOID_POINTER.md)
 ## [Null Pointer](/NullPointer/NULL_POINTER.md)
 ## [Adressen von Objekten](/Adressen/ADRESSEN.md)
+## [Dynamische Speicherverwaltung](/Dynamische Speicherverwaltung/DYNAMISCHE_SPEICHERVERWALTUNG.md)
